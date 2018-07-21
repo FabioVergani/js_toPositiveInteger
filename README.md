@@ -63,4 +63,10 @@ console.clear();
 */
 
 
+/*
+with offset:
+toPositiveInteger=(x,y=0)=>isFiniteNumber(x)?x<=0?y:parseInt(x)+y:y;
+*/
+*/
+
 
